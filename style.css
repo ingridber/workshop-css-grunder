@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+
+header img {
+    width: 70vw;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav {
+    width: 90vw;
+    background-color: antiquewhite;
+    padding: 7%;
+    text-align: center;
+}
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    padding: 2vw;
+}
+
+.welcome h3 {
+    font-size: 30pt;
+}
